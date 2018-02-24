@@ -1,7 +1,6 @@
 # Twitter-tweets-clustering-using-K-Means
 Script name - k_means.py
-Input argument format:  <numberOfClusters> <input-file-name> <output-file-name>
-
+Input argument format: "numberOfClusters" "input-file-name" "output-file-name"
 Result: Result would be generated as an output file
 
 Example command to Execute:
